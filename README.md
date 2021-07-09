@@ -6,9 +6,9 @@ Laser shutters are expensive (~1000 pounds) for the kind of devices they are. So
 
 Here are the parts one needs to buy from Thorlabs to get a working shutter:
 
-https://www.thorlabs.com/thorproduct.cfm?partnumber=SC10
-https://www.thorlabs.com/thorproduct.cfm?partnumber=SH05/M
-https://www.thorlabs.com/thorproduct.cfm?partnumber=TC200CAB10
+https://www.thorlabs.com/thorproduct.cfm?partnumber=SC10  
+https://www.thorlabs.com/thorproduct.cfm?partnumber=SH05/M  
+https://www.thorlabs.com/thorproduct.cfm?partnumber=TC200CAB10  
 
 The project can be broken down into 3 parts:
 
